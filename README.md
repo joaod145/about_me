@@ -8,4 +8,4 @@ Some of my projects might not be publicly available, as their repositories may b
 
 I'd be more than happy to share the source code and grant access whenever possible.
 
-Thanks for stopping by, and enjoy exploring my work!
+Thanks for stopping by, and enjoy exploring my work !
